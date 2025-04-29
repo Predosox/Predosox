@@ -44,9 +44,8 @@ Estas são algumas das ferramentas e linguagens que já utilizo ou estou aprende
 
 Estou sempre aberto a trocar experiências, aprender com outros desenvolvedores e até colaborar em projetos!
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/arthur-almeida-pedroso-133a8a285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [Instagram]([https://instagram.com/seu_usuario](https://www.instagram.com/arthur_pdroso/profilecard/?igsh=MTd4YjRydXZjdXlxbw==))
-
+- [LinkedIn](https://www.linkedin.com/in/arthur-almeida-pedroso-133a8a285)
+- [Instagram](https://www.instagram.com/arthur_pdroso)
 ---
 
 
