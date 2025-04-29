@@ -1,54 +1,53 @@
-# Olá, eu sou Arthur Pedroso! 👨‍💻🚀
+# Hello, I'm Arthur Pedroso! 👨‍💻🚀
 
-Seja muito bem-vindo ao meu espaço no GitHub!  
-Aqui você encontrará meus projetos em desenvolvimento, estudos e experimentos com tecnologia.  
-Estou no início da minha jornada como programador, mas sigo aprendendo com dedicação e entusiasmo a cada linha de código.
-
----
-
-## 🌟 Sobre mim
-
-Sou um entusiasta da tecnologia, atualmente explorando o vasto universo do **desenvolvimento de software** e da **inteligência artificial**.  
-Mesmo sendo iniciante, tenho muita curiosidade e vontade de aprender — gosto de construir, experimentar e buscar soluções criativas.
-
-🎯 Meu foco atual é evoluir como desenvolvedor e aplicar esse conhecimento para criar soluções úteis no dia a dia e no ambiente profissional.
+Welcome to my GitHub space!  
+Here you'll find my ongoing projects, studies, and experiments with technology.  
+I'm at the beginning of my programming journey, but I'm learning with dedication and enthusiasm—one line of code at a time.
 
 ---
 
-## 🔭 Trabalhando atualmente com:
+## 🌟 About Me
 
-- **Desenvolvimento de Software**: Criando aplicações com **Python**, construindo interfaces gráficas com **Tkinter** e desenhando telas interativas com **QtDesigner**.
-- **Desenvolvimento Web**: Utilizando o poderoso framework **Django** para construir aplicações web robustas e escaláveis.
+I'm a technology enthusiast currently exploring the vast world of **software development** and **artificial intelligence**.  
+Even as a beginner, I have a strong curiosity and a deep desire to learn — I love building, experimenting, and finding creative solutions.
 
----
-
-## 🌱 Aprendendo atualmente:
-
-- **Django**: Aprofundando meus conhecimentos enquanto desenvolvo sites para a empresa onde trabalho.
-- **Bootstrap**: Incorporando este framework front-end para deixar os sites mais modernos, responsivos e elegantes.
-- **Machine Learning**: Iniciando minha jornada no mundo da inteligência artificial.
+🎯 My current focus is to grow as a developer and apply what I learn to create useful solutions both in everyday life and in the professional environment.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🔭 Currently working with:
 
-Estas são algumas das ferramentas e linguagens que já utilizo ou estou aprendendo no meu dia a dia:
-
-- **Linguagens de Programação**: `Python`, `HTML`, `CSS`
-- **Frameworks e Bibliotecas**: `Django`, `Flask`, `Pandas`, `OpenCV`
-- **Ferramentas**: `Git`, `MySQL`
+- **Software Development**: Building applications using **Python**, crafting graphical interfaces with **Tkinter**, and designing interactive UIs with **QtDesigner**.
+- **Web Development**: Developing robust and scalable web applications using the powerful **Django** framework.
 
 ---
 
-## 💬 Vamos conversar?
+## 🌱 Currently learning:
 
-Estou sempre aberto a trocar experiências, aprender com outros desenvolvedores e até colaborar em projetos!
+- **Django**: Deepening my knowledge while building websites for the company I work for.
+- **Bootstrap**: Applying this front-end framework to make my websites more modern, responsive, and elegant.
+- **Machine Learning**: Starting my journey into the world of artificial intelligence.
+
+---
+
+## 🛠️ Technologies & Tools
+
+These are some of the tools and languages I use or am currently learning:
+
+- **Programming Languages**: `Python`, `HTML`, `CSS`
+- **Frameworks & Libraries**: `Django`, `Flask`, `Pandas`, `OpenCV`
+- **Tools**: `Git`, `MySQL`
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to exchanging ideas, learning from other developers, and collaborating on projects!
 
 - [LinkedIn](https://www.linkedin.com/in/arthur-almeida-pedroso-133a8a285)
 - [Instagram](https://www.instagram.com/arthur_pdroso)
+
 ---
 
-
-> **"O segredo da existência humana não está apenas em viver, mas também em saber para que se vive."**  
-> — *Fiódor Dostoiévski*
-
+> **"The mystery of human existence lies not in just staying alive, but in finding something to live for."**  
+> — *Fyodor Dostoevsky*
