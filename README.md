@@ -17,7 +17,7 @@ Even as a beginner, I have a strong curiosity and a deep desire to learn — I l
 
 ## 🔭 Currently working with:
 
-- **Software Development**: Building applications using **Python**, crafting graphical interfaces with **Tkinter**, and designing interactive UIs with **QtDesigner**.
+- **Software Development**: Building applications using **Python** and crafting graphical interfaces with **Kivy**.
 - **Web Development**: Developing robust and scalable web applications using the powerful **Django** framework.
 
 ---
