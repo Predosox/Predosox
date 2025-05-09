@@ -8,7 +8,6 @@ Here you'll find my ongoing projects, studies, and experiments with technology.
 ## 🌟 About Me
 
 I'm a technology enthusiast and a **Computer Science undergraduate**, currently exploring the vast world of **software development** and **artificial intelligence**.  
-Even as a beginner, I have a strong curiosity and a deep desire to learn — I love building, experimenting, and finding creative solutions.
 
 🎯 My current focus is to grow as a developer and apply what I learn to create useful solutions both in everyday life and in the professional environment.
 
